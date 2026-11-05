@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:48.597536+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z1901-dark-ambient-techno-pulses-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "bea6c6ecda9f8902004db1d5ed89470e325c965906202d5baf78aaa185dfa316",
+      "errors": []
+    },
+    {
+      "path": "midi/z1901-dark-ambient-techno-pulses-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d9216b310590d7b17b650e21848c085b0be1c402af7d937cd390c207b35603ff",
+      "errors": []
+    },
+    {
+      "path": "midi/z1901-dark-ambient-techno-pulses-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1901-dark-ambient-techno-pulses-opening/principal_motif.mid",
+      "bytes": 835,
+      "sha256": "2e9b2dad6965dd9e6c81abd7ded8c426b1d738665196093e2f51e786b05bf26f",
+      "errors": []
+    },
+    {
+      "path": "midi/z1901-dark-ambient-techno-pulses-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "12daef9a637064ea2c495cac772e98c9690c0f2b9e4767ea1dff5e407a31352c",
+      "errors": []
+    },
+    {
+      "path": "midi/z1901-dark-ambient-techno-pulses-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "e05699a596ff6a92687b25c24c69c72acb3a83467ef7bb26ea720ecc6f09f2f1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1901-dark-ambient-techno-pulses-opening/z1901-dark-ambient-techno-pulses-opening-combined.mid",
+      "bytes": 6057,
+      "sha256": "aade5e7c8e85e6fb3920fa9f8fdba71ea41b97cfaa3d10bb2ed7b02be629fb3d",
+      "errors": []
+    },
+    {
+      "path": "midi/z1902-dark-ambient-techno-pulses-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "d5e5b148f676b8362eede48a6a59e1515e4d9aba5ff82cc4c29281d4fb81c0df",
+      "errors": []
+    },
+    {
+      "path": "midi/z1902-dark-ambient-techno-pulses-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "9d2ab9e53c87d3a091a5731b5e42bf43018b8794c962a9f75611eef29e45a26f",
+      "errors": []
+    },
+    {
+      "path": "midi/z1902-dark-ambient-techno-pulses-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1902-dark-ambient-techno-pulses-variation/principal_motif.mid",
+      "bytes": 834,
+      "sha256": "bbadc959ec1c7f79c080affb9ee3a6129aa7f697f10f90319906c896f440c51d",
+      "errors": []
+    },
+    {
+      "path": "midi/z1902-dark-ambient-techno-pulses-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "9bb3dfb0cad01afae1d2d3de18a6c04497534f10d2ccaa0dfecd9f34b88918b9",
+      "errors": []
+    },
+    {
+      "path": "midi/z1902-dark-ambient-techno-pulses-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "c7f257041f27e2efefb4806901a0a50ab69370527d27f1e23534e4507ccfabb6",
+      "errors": []
+    },
+    {
+      "path": "midi/z1902-dark-ambient-techno-pulses-variation/z1902-dark-ambient-techno-pulses-variation-combined.mid",
+      "bytes": 6056,
+      "sha256": "392bf12413741a6e764f2f55d8ea4f18e855373e13cac5f13de2cb62b5535482",
+      "errors": []
+    },
+    {
+      "path": "midi/z1903-dark-ambient-techno-pulses-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "136a8bcdc75747a371fb1eede60743535a19d846b6d9f7e5851e0d47d57c55fe",
+      "errors": []
+    },
+    {
+      "path": "midi/z1903-dark-ambient-techno-pulses-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "5689cfdf7a9c66386943865dfb34709cfd5194e62a314617938fa9bada6f53fd",
+      "errors": []
+    },
+    {
+      "path": "midi/z1903-dark-ambient-techno-pulses-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1903-dark-ambient-techno-pulses-contrast/principal_motif.mid",
+      "bytes": 798,
+      "sha256": "21e18db55465a6b43d004e3e83977403b10e83f5324086605516a4c5a9aeea1a",
+      "errors": []
+    },
+    {
+      "path": "midi/z1903-dark-ambient-techno-pulses-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "a2b261e153baa6170493c7cfd77288d971050e41660d3c696e8c40ea8f7680da",
+      "errors": []
+    },
+    {
+      "path": "midi/z1903-dark-ambient-techno-pulses-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ae794f7faea08be33b043036c5d1f4c53f3fd3843b5e528ca9ce15bfc8374022",
+      "errors": []
+    },
+    {
+      "path": "midi/z1903-dark-ambient-techno-pulses-contrast/z1903-dark-ambient-techno-pulses-contrast-combined.mid",
+      "bytes": 6020,
+      "sha256": "986e880b6706f8eb4969cdc191b334365e6d3d8c292f84e962ba3d20e67f3cd6",
+      "errors": []
+    },
+    {
+      "path": "midi/z1904-dark-ambient-techno-pulses-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "efaa4fe2350124bb3f5f63680905b3dd09bd28f4c0ea20d55c3825bd52c11e05",
+      "errors": []
+    },
+    {
+      "path": "midi/z1904-dark-ambient-techno-pulses-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c2c08ebd9dcde4676358e63d9387fd1f94936059d08fd11e1d8cf7199cc5ead4",
+      "errors": []
+    },
+    {
+      "path": "midi/z1904-dark-ambient-techno-pulses-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1904-dark-ambient-techno-pulses-return/principal_motif.mid",
+      "bytes": 798,
+      "sha256": "809b2d326304f6eb2adef6894315e0e4ca02373030ad0daec1a9141b90d58cc0",
+      "errors": []
+    },
+    {
+      "path": "midi/z1904-dark-ambient-techno-pulses-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "403f502c618f57fa032e2b3c466df5a1ac2799b85a7a25cff16b9284013f68c2",
+      "errors": []
+    },
+    {
+      "path": "midi/z1904-dark-ambient-techno-pulses-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "6d62e6fafa544a54e8f28e0802365467e0e7dcc0af5c670c1e2617b289d89be2",
+      "errors": []
+    },
+    {
+      "path": "midi/z1904-dark-ambient-techno-pulses-return/z1904-dark-ambient-techno-pulses-return-combined.mid",
+      "bytes": 6020,
+      "sha256": "f1073cb07fe826ae6ba4ce7a37b298f9dc8f130bbb5ad185e52c7b4fad227cca",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

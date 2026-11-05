@@ -1,0 +1,26 @@
+{
+  "title": "Dark Ambient Techno Pulses",
+  "study": "z1901",
+  "bpm": 132,
+  "source_audio": "preview/dark-ambient-techno-pulses-simple-synth-preview.mp3",
+  "source_audio_sha256": "798047e194a01ed099cb64b25494502768d95021649a5e1ea8316fd123c2c302",
+  "source_midi": "midi/z1901-dark-ambient-techno-pulses-opening/z1901-dark-ambient-techno-pulses-opening-combined.mid",
+  "source_midi_sha256": "aade5e7c8e85e6fb3920fa9f8fdba71ea41b97cfaa3d10bb2ed7b02be629fb3d",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "174448291e16354e946d9b14b7091cff3b19cb7134707fe129b3f1ae4291e667",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "843d8005751d2ec0d34ba8a75f080e49f6b8ffa9ab35ae77df03049114c4d1b1",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "b2aa688ea6ae27cb962a64fd58b2fb9247804b2ac7e678169cd3e343e3ef89fa",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
